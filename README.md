@@ -19,7 +19,11 @@
 ![Caua Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauaml-Dev&theme=dark)
 ![Caua Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaml-Dev&layout=compact&theme=dark&langs_count=16)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauaml-Dev&layout=compact&theme=github-dark&langs_count=16&hide_border=false)
 
+
+# 
+<br /> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,4 +35,3 @@
   <img align="center" alt="Caua-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Caua-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
-
